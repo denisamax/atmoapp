@@ -167,7 +167,7 @@ header.masthead p {
 }
 @media (min-width: 768px) {
   header.masthead p {
-    font-size: 1.30rem;
+    font-size: 1.40rem;
   }
 }
 @media (min-width: 992px) {
@@ -210,7 +210,7 @@ header.masthead2 p {
 }
 @media (min-width: 768px) {
   header.masthead2 p {
-    font-size: 1.15rem;
+    font-size: 1.40rem;
   }
 }
 @media (min-width: 992px) {
