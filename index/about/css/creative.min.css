@@ -4,7 +4,7 @@ html {
   height: 100%;
 }
 body {
-  font-family: Merriweather, "Helvetica Neue", Arial, sans-serif;
+font-family: 'Lato', sans-serif;
 }
 hr {
   max-width: 50px;
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .bg-primary {
   background-color: #6ED5DF !important;
@@ -67,7 +67,7 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -76,7 +76,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: #6ED5DF;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
@@ -268,7 +268,7 @@ header.masthead2 p {
   .portfolio-box-caption-content
   .project-name {
   padding: 0 15px;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .portfolio-box
   .portfolio-box-caption
@@ -312,7 +312,7 @@ header.masthead2 p {
   text-transform: uppercase;
   border: none;
   border-radius: 300px;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .btn-xl {
   padding: 1rem 2rem;
