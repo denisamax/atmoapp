@@ -203,7 +203,7 @@ header.masthead2 hr {
 }
 header.masthead2 h1 {
   font-size: 2rem;
-  text-align: right;
+  text-align: left;
 }
 header.masthead2 p {
   font-weight: 300;
